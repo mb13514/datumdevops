@@ -4,6 +4,7 @@
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
+   
 
 ## Generalidades del proyecto
 ### Descripción
